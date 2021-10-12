@@ -11,13 +11,16 @@ npm install -g yarn
 npm install -g firebase-tools
 ```
 
+### init
+```
+yarn
+```
 
 
 ### build
 ```
 yarn build
 ```
-
 
 ### run
 ```
